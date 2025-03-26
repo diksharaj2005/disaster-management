@@ -8,6 +8,7 @@
 
 >In 90% cases the affected and the victims had minimal or no knowledge 
 >of the safety measures to be taken during the disaster .
+>link to my website:https://disastermanagement05.netlify.app/
 
 # MY SOLUTION 
 to prevent the loss of lives due to natural is to provide a space where the people can find important safety measures to be taken during a natural calamity 
